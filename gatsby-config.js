@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Neško Đorić`,
     description: `Ponešto o Nešku Đoriću`,
-    siteUrl: "https://djore.netlify.app//",
+    siteUrl: "https://ndjore.netlify.app//",
     author: `Neško.xyz`,
   },
   plugins: [
