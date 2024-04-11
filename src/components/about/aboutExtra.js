@@ -6,7 +6,7 @@ const AboutExtra = () => {
       <div className="mt-10 px-8">
         <h2 className="text-black text-4xl font-semibold">GATSBY FRAMEWORK</h2>
         <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-          Start building amazing web experiences
+          Start building amazing web+++++++++++++++++++++++++++++++++++ experiences
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
           Lorem Ipsum is simply dummy text of the printing and typesetting
