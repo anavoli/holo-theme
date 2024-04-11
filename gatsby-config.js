@@ -79,7 +79,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Holo - Gatsby Starter Theme`,
+        name: `hhhhhhhhhhhhhhhhhHolo - Gatsby Starter Theme`,
         short_name: `Holo`,
         start_url: `/`,
         background_color: `#ebebfa`,
